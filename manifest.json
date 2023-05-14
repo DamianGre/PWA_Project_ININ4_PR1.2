@@ -1,0 +1,18 @@
+{
+    "theme_color" : "#f69435",
+    "background_color" : "#f69435",
+    "display" : "fullscreen",
+    "scope" : "/",
+    "start_url" : "/PWA_Project_ININ4_PR1.2/",
+    "short_name" : "PWA_ININ4_PR1.2",
+    "name" : " PWA_Project_ININ4_PR1.2",
+    "description" : "projekt PWA",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "./img/icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+    }
